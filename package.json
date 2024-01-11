@@ -13,16 +13,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iAkashPattnaik/ThalaForAReason.git"
+    "url": "git+https://github.com/Akashgovindu4/thala.git"
   },
   "keywords": [
     "thala",
     "fun"
   ],
-  "author": "Akash Pattnaik <akashpattnaik.github@gmail.com>",
-  "license": "MIT",
+  "author": "Akash govindu <govindakash777@gmail.com>",
   "bugs": {
-    "url": "https://github.com/iAkashPattnaik/ThalaForAReason/issues"
+    "url": "https://github.com/Akashgovindu4/thala/issues"
   },
-  "homepage": "https://github.com/iAkashPattnaik/ThalaForAReason#readme"
+  "homepage": "https://github.com/Akashgovindu4/thala/blob/main/README.md"
 }
+
